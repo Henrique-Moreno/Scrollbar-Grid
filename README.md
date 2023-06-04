@@ -1,4 +1,4 @@
 # Scrollbar-Grid
 HTNL &amp; CSS
 
-> Projeto em andamento 🐜
+> Projeto em desenvolvimento 🐜
